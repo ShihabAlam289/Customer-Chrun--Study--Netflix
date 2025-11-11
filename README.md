@@ -12,4 +12,4 @@ It identifies which subscribers are likely to cancel and explores the factors in
 - Higher satisfaction and engagement reduce churn probability.  
 
 ## 🛠️ Tools
-Python pandas numpy matplotlib seaborn scikit-learn xgboost shap
+Python pandas numpy matplotlib seaborn scikit-learn Random Forest
